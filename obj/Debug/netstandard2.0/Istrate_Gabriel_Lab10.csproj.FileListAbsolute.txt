@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\Istrate_Gabriel_Lab10\Istrate_Gabriel_Lab10\bin\Debug\netstandard2.0\Istrate_Gabriel_Lab10.deps.json
+C:\Users\User\source\repos\Istrate_Gabriel_Lab10\Istrate_Gabriel_Lab10\bin\Debug\netstandard2.0\Istrate_Gabriel_Lab10.dll
+C:\Users\User\source\repos\Istrate_Gabriel_Lab10\Istrate_Gabriel_Lab10\bin\Debug\netstandard2.0\ref\Istrate_Gabriel_Lab10.dll
+C:\Users\User\source\repos\Istrate_Gabriel_Lab10\Istrate_Gabriel_Lab10\bin\Debug\netstandard2.0\Istrate_Gabriel_Lab10.pdb
+C:\Users\User\source\repos\Istrate_Gabriel_Lab10\Istrate_Gabriel_Lab10\obj\Debug\netstandard2.0\Istrate_Gabriel_Lab10.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Istrate_Gabriel_Lab10\Istrate_Gabriel_Lab10\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\User\source\repos\Istrate_Gabriel_Lab10\Istrate_Gabriel_Lab10\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\User\source\repos\Istrate_Gabriel_Lab10\Istrate_Gabriel_Lab10\obj\Debug\netstandard2.0\Istrate_Gabriel_Lab10.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Istrate_Gabriel_Lab10\Istrate_Gabriel_Lab10\obj\Debug\netstandard2.0\Istrate_Gabriel_Lab10.AssemblyInfo.cs
+C:\Users\User\source\repos\Istrate_Gabriel_Lab10\Istrate_Gabriel_Lab10\obj\Debug\netstandard2.0\Istrate_Gabriel_Lab10.dll
+C:\Users\User\source\repos\Istrate_Gabriel_Lab10\Istrate_Gabriel_Lab10\obj\Debug\netstandard2.0\ref\Istrate_Gabriel_Lab10.dll
+C:\Users\User\source\repos\Istrate_Gabriel_Lab10\Istrate_Gabriel_Lab10\obj\Debug\netstandard2.0\Istrate_Gabriel_Lab10.pdb
+C:\Users\User\source\repos\Istrate_Gabriel_Lab10\Istrate_Gabriel_Lab10\obj\Debug\netstandard2.0\ListEntryPage.xaml.g.cs
+C:\Users\User\source\repos\Istrate_Gabriel_Lab10\Istrate_Gabriel_Lab10\obj\Debug\netstandard2.0\ListPage.xaml.g.cs
+C:\Users\User\source\repos\Istrate_Gabriel_Lab10\Istrate_Gabriel_Lab10\obj\Debug\netstandard2.0\Istrate_Gabriel_Lab10.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Istrate_Gabriel_Lab10\Istrate_Gabriel_Lab10\obj\Debug\netstandard2.0\XamlC.stamp
